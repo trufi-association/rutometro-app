@@ -1,4 +1,4 @@
-# navigator
+# rutometro_app
 
 A new Flutter project.
 
