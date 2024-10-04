@@ -33,6 +33,8 @@
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Rutometro app is using your location to display it on a map and report defects in your location.</string>
 	<key>NSLocationAlwaysUsageDescription</key>
 	<string>Rutometro app is using your location to display it on a map and report defects in your location.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
@@ -58,7 +60,5 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>UIViewControllerBasedStatusBarAppearance</key>
-	<true/>
 </dict>
 </plist>

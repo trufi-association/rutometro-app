@@ -1,6 +1,6 @@
 {
-    "name": "navigator",
-    "short_name": "navigator",
+    "name": "rutometro_app",
+    "short_name": "rutometro_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
