@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 final brandingRutometro = ThemeData.from(
+  useMaterial3: false,
   colorScheme: ColorScheme.fromSwatch(
     primarySwatch: const MaterialColor(
       0xffe4002a,
@@ -17,7 +18,6 @@ final brandingRutometro = ThemeData.from(
         900: Color(0xffca0013),
       },
     ),
-    primaryColorDark: const Color(0xff000000),
     accentColor: const Color(0xffe4002a),
     cardColor: Colors.white,
     backgroundColor: Colors.grey[50],
@@ -33,9 +33,14 @@ final brandingRutometro = ThemeData.from(
     backgroundColor: Colors.white,
     foregroundColor: Color(0xffe4002a),
   ),
+  textSelectionTheme: TextSelectionThemeData(
+    cursorColor: const Color(0xffe4002a),
+    selectionColor: const Color(0xffe4002a).withOpacity(0.7),
+  ),
 );
 
 final brandingRutometroDark = ThemeData.from(
+  useMaterial3: false,
   colorScheme: ColorScheme.fromSwatch(
     primarySwatch: const MaterialColor(
       0xff263238,
@@ -71,5 +76,9 @@ final brandingRutometroDark = ThemeData.from(
   ),
   progressIndicatorTheme: const ProgressIndicatorThemeData(
     color: Color(0xffd70022),
+  ),
+  textSelectionTheme: TextSelectionThemeData(
+    cursorColor: const Color(0xffd70022),
+    selectionColor: const Color(0xffd70022).withOpacity(0.7),
   ),
 );

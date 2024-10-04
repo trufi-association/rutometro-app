@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:rutometro/branding_rutometro.dart';
-import 'package:rutometro/custom_async_executor.dart';
+import 'package:rutometro_app/branding_rutometro.dart';
+import 'package:rutometro_app/custom_async_executor.dart';
 import 'package:trufi_core/base/blocs/map_configuration/map_configuration_cubit.dart';
 import 'package:trufi_core/base/blocs/map_tile_provider/map_tile_provider.dart';
 import 'package:trufi_core/base/blocs/theme/theme_cubit.dart';
@@ -13,6 +13,7 @@ import 'package:trufi_core/base/widgets/screen/lifecycle_reactor_notification.da
 import 'package:trufi_core/default_values.dart';
 import 'package:trufi_core/trufi_core.dart';
 import 'package:trufi_core/trufi_router.dart';
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await CertificatedLetsencryptAndroid.workAroundCertificated();
