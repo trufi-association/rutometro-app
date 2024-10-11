@@ -3,8 +3,8 @@ import 'package:rutometro_app/branding_rutometro.dart';
 import 'package:rutometro_app/custom_async_executor.dart';
 import 'package:trufi_core/base/blocs/map_configuration/map_configuration_cubit.dart';
 import 'package:trufi_core/base/blocs/map_tile_provider/map_tile_provider.dart';
+import 'package:trufi_core/base/blocs/providers/city_selection_manager.dart';
 import 'package:trufi_core/base/blocs/theme/theme_cubit.dart';
-import 'package:trufi_core/base/models/trufi_latlng.dart';
 import 'package:trufi_core/base/utils/certificates_letsencrypt_android.dart';
 import 'package:trufi_core/base/utils/graphql_client/hive_init.dart';
 import 'package:trufi_core/base/utils/trufi_app_id.dart';
@@ -18,6 +18,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await CertificatedLetsencryptAndroid.workAroundCertificated();
   await initHiveForFlutter();
+  await CitySelectionManager().loadData();
   await TrufiAppId.initialize();
   runApp(
     TrufiApp(
@@ -36,7 +37,7 @@ void main() async {
           otpEndpoint: "https://rutometro.trufi.dev/otp",
           otpGraphqlEndpoint: "https://rutometro.trufi.dev/otp/index/graphql",
           mapConfiguration: MapConfiguration(
-            center: const TrufiLatLng(19.4323039, -100.3554035),
+            center: CitySelectionManager().currentCity.center,
           ),
           searchAssetPath: "assets/data/search.json",
           photonUrl: "https://rutometro.trufi.dev/photon",
