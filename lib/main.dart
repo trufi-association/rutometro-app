@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:rutometro_app/branding_rutometro.dart';
 import 'package:rutometro_app/custom_async_executor.dart';
 import 'package:trufi_core/base/blocs/map_configuration/map_configuration_cubit.dart';
-import 'package:trufi_core/base/blocs/map_tile_provider/map_tile_provider.dart';
 import 'package:trufi_core/base/blocs/providers/city_selection_manager.dart';
 import 'package:trufi_core/base/blocs/theme/theme_cubit.dart';
 import 'package:trufi_core/base/utils/certificates_letsencrypt_android.dart';
@@ -41,12 +40,12 @@ void main() async {
           ),
           searchAssetPath: "assets/data/search.json",
           photonUrl: "https://rutometro.trufi.dev/photon",
-          mapTileProviders: [
-            OSMMapLayer(
-              mapTilesUrl:
-                  "https://rutometro.trufi.dev/static-maps/osm-liberty/{z}/{x}/{y}@2x.jpg",
-            )
-          ],
+          // mapTileProviders: [
+          //   OSMMapLayer(
+          //     mapTilesUrl:
+          //         "https://rutometro.trufi.dev/static-maps/osm-liberty/{z}/{x}/{y}@2x.jpg",
+          //   )
+          // ],
         ),
       ],
       trufiRouter: TrufiRouter(
@@ -65,7 +64,9 @@ void main() async {
           emailContact: 'leonardo.gutierrez@trufi-association.org',
           urlShareApp: 'https://www.trufi.app/',
           urlSocialMedia: const UrlSocialMedia(
-            urlFacebook: 'https://www.facebook.com/trufiapp/',
+            urlFacebook: 'https://www.facebook.com/profile.php?id=61574989715405',
+            urlInstagram: 'https://www.instagram.com/mapadata_?igsh=ajFtM2gwdTVhYWc=',
+            urlLinkedin: 'https://www.linkedin.com/company/mapadata/',
           ),
           shareBaseUri: Uri(
             scheme: "https",
