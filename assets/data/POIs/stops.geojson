@@ -1,0 +1,6902 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-10-06T12:50:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633523",
+        "highway": "bus_stop",
+        "nombre": "Parada",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5733507,
+          20.0230369
+        ]
+      },
+      "id": "node/13173633523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633524",
+        "highway": "bus_stop",
+        "nombre": "Interseccion El Quinte",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5907668,
+          19.9209587
+        ]
+      },
+      "id": "node/13173633524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633525",
+        "highway": "bus_stop",
+        "nombre": "Entrada a El Saltillo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6422247,
+          20.0287616
+        ]
+      },
+      "id": "node/13173633525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633526",
+        "highway": "bus_stop",
+        "nombre": "Escuelas Durazno",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5822534,
+          19.9259317
+        ]
+      },
+      "id": "node/13173633526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633527",
+        "highway": "bus_stop",
+        "nombre": "Telesecundaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4901432,
+          19.9451877
+        ]
+      },
+      "id": "node/13173633527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633528",
+        "highway": "bus_stop",
+        "nombre": "Escuela",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.630788,
+          20.0528637
+        ]
+      },
+      "id": "node/13173633528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633529",
+        "highway": "bus_stop",
+        "nombre": "Km 4",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5806358,
+          19.9623893
+        ]
+      },
+      "id": "node/13173633529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633530",
+        "highway": "bus_stop",
+        "nombre": "Retorno",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6261682,
+          19.9246426
+        ]
+      },
+      "id": "node/13173633530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633531",
+        "highway": "bus_stop",
+        "nombre": "Entrada a",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.588832,
+          19.9691509
+        ]
+      },
+      "id": "node/13173633531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633532",
+        "highway": "bus_stop",
+        "nombre": "Los Pinos",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5773391,
+          19.9593011
+        ]
+      },
+      "id": "node/13173633532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633533",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.637064,
+          19.9054414
+        ]
+      },
+      "id": "node/13173633533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633534",
+        "highway": "bus_stop",
+        "nombre": "CECyTEM",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6001386,
+          19.9732077
+        ]
+      },
+      "id": "node/13173633534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633535",
+        "highway": "bus_stop",
+        "nombre": "Panteon",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6045072,
+          20.1353374
+        ]
+      },
+      "id": "node/13173633535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633536",
+        "highway": "bus_stop",
+        "nombre": "Mecanico",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6084775,
+          19.9986036
+        ]
+      },
+      "id": "node/13173633536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633537",
+        "highway": "bus_stop",
+        "nombre": "Iglesia Agua Es",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5828166,
+          19.9772377
+        ]
+      },
+      "id": "node/13173633537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633538",
+        "highway": "bus_stop",
+        "nombre": "Campo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5768968,
+          19.9770797
+        ]
+      },
+      "id": "node/13173633538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633539",
+        "highway": "bus_stop",
+        "nombre": "Crucero Doxhicho",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5669268,
+          19.936425
+        ]
+      },
+      "id": "node/13173633539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633540",
+        "highway": "bus_stop",
+        "nombre": "Entrada Ojo de Agua",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4639799,
+          19.9696921
+        ]
+      },
+      "id": "node/13173633540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633541",
+        "highway": "bus_stop",
+        "nombre": "Gasolinera",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4879474,
+          19.9640853
+        ]
+      },
+      "id": "node/13173633541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633542",
+        "highway": "bus_stop",
+        "nombre": "Tierra Roja",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.596315,
+          20.1582759
+        ]
+      },
+      "id": "node/13173633542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633543",
+        "highway": "bus_stop",
+        "nombre": "Panteon de Las Huertas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5703766,
+          19.9809263
+        ]
+      },
+      "id": "node/13173633543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633544",
+        "highway": "bus_stop",
+        "nombre": "Emiliano Zapata",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5288839,
+          19.955956
+        ]
+      },
+      "id": "node/13173633544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633545",
+        "highway": "bus_stop",
+        "nombre": "Canal",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5559036,
+          19.9544242
+        ]
+      },
+      "id": "node/13173633545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633546",
+        "highway": "bus_stop",
+        "nombre": "Papeleria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5742021,
+          19.9786264
+        ]
+      },
+      "id": "node/13173633546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633547",
+        "highway": "bus_stop",
+        "nombre": "Crucero Doxhicho",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5665774,
+          19.9359825
+        ]
+      },
+      "id": "node/13173633547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633548",
+        "highway": "bus_stop",
+        "nombre": "Papeleria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6900738,
+          20.0231888
+        ]
+      },
+      "id": "node/13173633548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633549",
+        "highway": "bus_stop",
+        "nombre": "OXXO",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5324247,
+          19.9601348
+        ]
+      },
+      "id": "node/13173633549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633550",
+        "highway": "bus_stop",
+        "nombre": "Iglesia Santiago Oxthoc",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5475566,
+          20.1234965
+        ]
+      },
+      "id": "node/13173633550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633551",
+        "highway": "bus_stop",
+        "nombre": "Puente Pul",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5649236,
+          19.9560562
+        ]
+      },
+      "id": "node/13173633551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633552",
+        "highway": "bus_stop",
+        "nombre": "Puente peatonal",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5322402,
+          19.9615985
+        ]
+      },
+      "id": "node/13173633552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633553",
+        "highway": "bus_stop",
+        "nombre": "Km 102",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5919489,
+          20.0556
+        ]
+      },
+      "id": "node/13173633553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633554",
+        "highway": "bus_stop",
+        "nombre": "El Rosal",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6970602,
+          20.101509
+        ]
+      },
+      "id": "node/13173633554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633555",
+        "highway": "bus_stop",
+        "nombre": "Clinica La Paz",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5545258,
+          19.9711301
+        ]
+      },
+      "id": "node/13173633555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633556",
+        "highway": "bus_stop",
+        "nombre": "Auditorio",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4909212,
+          19.9430684
+        ]
+      },
+      "id": "node/13173633556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633557",
+        "highway": "bus_stop",
+        "nombre": "Hospital",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.54291,
+          19.96568
+        ]
+      },
+      "id": "node/13173633557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633558",
+        "highway": "bus_stop",
+        "nombre": "Retorno",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.549415,
+          19.9512814
+        ]
+      },
+      "id": "node/13173633558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633559",
+        "highway": "bus_stop",
+        "nombre": "Entrada Xhitey Arrayanes",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5311363,
+          19.9734508
+        ]
+      },
+      "id": "node/13173633559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633560",
+        "highway": "bus_stop",
+        "nombre": "Bajo Puente Xhitey",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.528868,
+          19.9785254
+        ]
+      },
+      "id": "node/13173633560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633561",
+        "highway": "bus_stop",
+        "nombre": "Panaderia",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5676686,
+          19.9728271
+        ]
+      },
+      "id": "node/13173633561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633562",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5557837,
+          19.9721267
+        ]
+      },
+      "id": "node/13173633562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633563",
+        "highway": "bus_stop",
+        "nombre": "Parroquia Huapango",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6849566,
+          19.9759687
+        ]
+      },
+      "id": "node/13173633563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633564",
+        "highway": "bus_stop",
+        "nombre": "Km 107",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6279791,
+          20.0832496
+        ]
+      },
+      "id": "node/13173633564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633565",
+        "highway": "bus_stop",
+        "nombre": "Secundaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6632173,
+          20.0249416
+        ]
+      },
+      "id": "node/13173633565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633566",
+        "highway": "bus_stop",
+        "nombre": "La Cruz",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4917824,
+          19.9638371
+        ]
+      },
+      "id": "node/13173633566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633567",
+        "highway": "bus_stop",
+        "nombre": "Iglesia de Xhimohay 2",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6348332,
+          19.9188452
+        ]
+      },
+      "id": "node/13173633567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633568",
+        "highway": "bus_stop",
+        "nombre": "La Campana",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5477456,
+          19.9528138
+        ]
+      },
+      "id": "node/13173633568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633569",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5845317,
+          19.9376541
+        ]
+      },
+      "id": "node/13173633569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633570",
+        "highway": "bus_stop",
+        "nombre": "Tienda La Pasadita",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5580661,
+          19.8820883
+        ]
+      },
+      "id": "node/13173633570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633571",
+        "highway": "bus_stop",
+        "nombre": "Panteon",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6330627,
+          19.9207276
+        ]
+      },
+      "id": "node/13173633571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633572",
+        "highway": "bus_stop",
+        "nombre": "Restaurante El Fenix",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4660138,
+          19.9688129
+        ]
+      },
+      "id": "node/13173633572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633573",
+        "highway": "bus_stop",
+        "nombre": "Las Jaras",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6355718,
+          20.0434855
+        ]
+      },
+      "id": "node/13173633573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633574",
+        "highway": "bus_stop",
+        "nombre": "Panteon",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5729508,
+          20.0082053
+        ]
+      },
+      "id": "node/13173633574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633575",
+        "highway": "bus_stop",
+        "nombre": "Km 103",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5872495,
+          20.0497407
+        ]
+      },
+      "id": "node/13173633575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633576",
+        "highway": "bus_stop",
+        "nombre": "Entrada Magueycitos",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6040073,
+          19.9134067
+        ]
+      },
+      "id": "node/13173633576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633577",
+        "highway": "bus_stop",
+        "nombre": "Gasolinera",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.487954,
+          19.9638806
+        ]
+      },
+      "id": "node/13173633577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633578",
+        "highway": "bus_stop",
+        "nombre": "Aceites Trejo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5802609,
+          20.0076735
+        ]
+      },
+      "id": "node/13173633578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633579",
+        "highway": "bus_stop",
+        "nombre": "Las Jaras",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6356679,
+          20.0435321
+        ]
+      },
+      "id": "node/13173633579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633580",
+        "highway": "bus_stop",
+        "nombre": "Taller",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5581584,
+          19.9791891
+        ]
+      },
+      "id": "node/13173633580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633581",
+        "highway": "bus_stop",
+        "nombre": "Cbtis",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5602185,
+          19.9425277
+        ]
+      },
+      "id": "node/13173633581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633582",
+        "highway": "bus_stop",
+        "nombre": "Retorno",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6262967,
+          19.9246873
+        ]
+      },
+      "id": "node/13173633582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633583",
+        "highway": "bus_stop",
+        "nombre": "Panaderia",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.54652,
+          19.96905
+        ]
+      },
+      "id": "node/13173633583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633584",
+        "highway": "bus_stop",
+        "nombre": "Bella Vista",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6089527,
+          20.1406928
+        ]
+      },
+      "id": "node/13173633584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633585",
+        "highway": "bus_stop",
+        "nombre": "Arco 57",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5210346,
+          19.9968086
+        ]
+      },
+      "id": "node/13173633585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633586",
+        "highway": "bus_stop",
+        "nombre": "Universidad Continental",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5192796,
+          19.9546075
+        ]
+      },
+      "id": "node/13173633586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633587",
+        "highway": "bus_stop",
+        "nombre": "Banco del Bienestar",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5573588,
+          19.9278935
+        ]
+      },
+      "id": "node/13173633587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633588",
+        "highway": "bus_stop",
+        "nombre": "Super Don",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.60678,
+          19.97563
+        ]
+      },
+      "id": "node/13173633588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633589",
+        "highway": "bus_stop",
+        "nombre": "Truper Acceso 2",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5307629,
+          19.9734115
+        ]
+      },
+      "id": "node/13173633589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633590",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5609474,
+          19.8935925
+        ]
+      },
+      "id": "node/13173633590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633591",
+        "highway": "bus_stop",
+        "nombre": "Crucero de Huapango",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6297719,
+          20.0090356
+        ]
+      },
+      "id": "node/13173633591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633592",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5070479,
+          19.9478662
+        ]
+      },
+      "id": "node/13173633592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633593",
+        "highway": "bus_stop",
+        "nombre": "El Xhiti",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.55182,
+          20.1413
+        ]
+      },
+      "id": "node/13173633593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633594",
+        "highway": "bus_stop",
+        "nombre": "Limite Chapa de Mota",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5402563,
+          19.8584866
+        ]
+      },
+      "id": "node/13173633594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633595",
+        "highway": "bus_stop",
+        "nombre": "Plaza Central San Juan Acazuchitlan",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5968966,
+          20.1484269
+        ]
+      },
+      "id": "node/13173633595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633596",
+        "highway": "bus_stop",
+        "nombre": "Aurrera",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5327451,
+          19.9580908
+        ]
+      },
+      "id": "node/13173633596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633597",
+        "highway": "bus_stop",
+        "nombre": "Entrada Hu",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.560904,
+          19.9565438
+        ]
+      },
+      "id": "node/13173633597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633598",
+        "highway": "bus_stop",
+        "nombre": "Iglesia El Saltillo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.669451,
+          20.0216224
+        ]
+      },
+      "id": "node/13173633598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633599",
+        "highway": "bus_stop",
+        "nombre": "Iglesia Santiago Oxthoc",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5475435,
+          20.1236144
+        ]
+      },
+      "id": "node/13173633599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173633600",
+        "highway": "bus_stop",
+        "nombre": "Entrada Xhixhat",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5390936,
+          19.9642116
+        ]
+      },
+      "id": "node/13173633600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637001",
+        "highway": "bus_stop",
+        "nombre": "La Manzanilla",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5178682,
+          19.9494373
+        ]
+      },
+      "id": "node/13173637001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637002",
+        "highway": "bus_stop",
+        "nombre": "Parada",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5786589,
+          19.9816375
+        ]
+      },
+      "id": "node/13173637002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637003",
+        "highway": "bus_stop",
+        "nombre": "Interseccion 2",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6224106,
+          20.1142211
+        ]
+      },
+      "id": "node/13173637003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637004",
+        "highway": "bus_stop",
+        "nombre": "Enfrente C",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5394088,
+          19.9543164
+        ]
+      },
+      "id": "node/13173637004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637005",
+        "highway": "bus_stop",
+        "nombre": "Entrada a El Saltillo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6423936,
+          20.0287092
+        ]
+      },
+      "id": "node/13173637005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637006",
+        "highway": "bus_stop",
+        "nombre": "Mecanico",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6085421,
+          19.998634
+        ]
+      },
+      "id": "node/13173637006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637007",
+        "highway": "bus_stop",
+        "nombre": "Muebleria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5683898,
+          19.9964969
+        ]
+      },
+      "id": "node/13173637007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637008",
+        "highway": "bus_stop",
+        "nombre": "Iglesia San Lorenzo Nenamicoyan",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6371183,
+          20.1396905
+        ]
+      },
+      "id": "node/13173637008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637009",
+        "highway": "bus_stop",
+        "nombre": "Crucero de Huapango",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6299,
+          20.0088842
+        ]
+      },
+      "id": "node/13173637009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637010",
+        "highway": "bus_stop",
+        "nombre": "Carcamo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.57153,
+          19.9734012
+        ]
+      },
+      "id": "node/13173637010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637011",
+        "highway": "bus_stop",
+        "nombre": "Desviacion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5439884,
+          19.9664467
+        ]
+      },
+      "id": "node/13173637011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637012",
+        "highway": "bus_stop",
+        "nombre": "Telesecundaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6716565,
+          19.9841736
+        ]
+      },
+      "id": "node/13173637012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637013",
+        "highway": "bus_stop",
+        "nombre": "Iglesia",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6068251,
+          19.9783564
+        ]
+      },
+      "id": "node/13173637013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637014",
+        "highway": "bus_stop",
+        "nombre": "IMSS",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.489855,
+          19.9478417
+        ]
+      },
+      "id": "node/13173637014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637015",
+        "highway": "bus_stop",
+        "nombre": "Panteon",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5290568,
+          19.9539011
+        ]
+      },
+      "id": "node/13173637015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637016",
+        "highway": "bus_stop",
+        "nombre": "ArciMart",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5233683,
+          19.9533106
+        ]
+      },
+      "id": "node/13173637016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637017",
+        "highway": "bus_stop",
+        "nombre": "Km 112",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6874043,
+          20.0924207
+        ]
+      },
+      "id": "node/13173637017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637018",
+        "highway": "bus_stop",
+        "nombre": "Panteon",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4881923,
+          19.9668385
+        ]
+      },
+      "id": "node/13173637018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637019",
+        "highway": "bus_stop",
+        "nombre": "Iglesia El Durazno",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6051573,
+          19.9129467
+        ]
+      },
+      "id": "node/13173637019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637020",
+        "highway": "bus_stop",
+        "nombre": "Truper",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5309988,
+          19.9717213
+        ]
+      },
+      "id": "node/13173637020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637021",
+        "highway": "bus_stop",
+        "nombre": "Parador Javier Barrios",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5317751,
+          19.9678103
+        ]
+      },
+      "id": "node/13173637021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637022",
+        "highway": "bus_stop",
+        "nombre": "Entrada Calderon",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5034747,
+          19.9467325
+        ]
+      },
+      "id": "node/13173637022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637023",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5644476,
+          19.9722193
+        ]
+      },
+      "id": "node/13173637023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637024",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5836904,
+          19.9810528
+        ]
+      },
+      "id": "node/13173637024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637025",
+        "highway": "bus_stop",
+        "nombre": "Crucero Valle de Oro",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5510265,
+          19.9750027
+        ]
+      },
+      "id": "node/13173637025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637026",
+        "highway": "bus_stop",
+        "nombre": "Panteon",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4960556,
+          19.9398371
+        ]
+      },
+      "id": "node/13173637026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637027",
+        "highway": "bus_stop",
+        "nombre": "Auditorio",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4918377,
+          19.9662471
+        ]
+      },
+      "id": "node/13173637027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637028",
+        "highway": "bus_stop",
+        "nombre": "Panteon",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6330176,
+          19.9206555
+        ]
+      },
+      "id": "node/13173637028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637029",
+        "highway": "bus_stop",
+        "nombre": "Entrada a",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5888009,
+          19.9692441
+        ]
+      },
+      "id": "node/13173637029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637030",
+        "highway": "bus_stop",
+        "nombre": "Iglesia El Saltillo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.669416,
+          20.0215642
+        ]
+      },
+      "id": "node/13173637030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637031",
+        "highway": "bus_stop",
+        "nombre": "Rancho Las Amazonas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6396043,
+          20.0050467
+        ]
+      },
+      "id": "node/13173637031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637032",
+        "highway": "bus_stop",
+        "nombre": "Iglesia",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.557425,
+          19.9703856
+        ]
+      },
+      "id": "node/13173637032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637033",
+        "highway": "bus_stop",
+        "nombre": "Modulo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5971028,
+          19.9716471
+        ]
+      },
+      "id": "node/13173637033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637034",
+        "highway": "bus_stop",
+        "nombre": "Iglesia Santiago Oxthoc",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5314754,
+          19.9677317
+        ]
+      },
+      "id": "node/13173637034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637035",
+        "highway": "bus_stop",
+        "nombre": "Entrada a",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5720234,
+          19.9554471
+        ]
+      },
+      "id": "node/13173637035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637036",
+        "highway": "bus_stop",
+        "nombre": "Tienda",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5080293,
+          19.9480738
+        ]
+      },
+      "id": "node/13173637036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637037",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6322569,
+          19.900202
+        ]
+      },
+      "id": "node/13173637037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637038",
+        "highway": "bus_stop",
+        "nombre": "Parque Recreativo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.555607,
+          19.9190092
+        ]
+      },
+      "id": "node/13173637038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637039",
+        "highway": "bus_stop",
+        "nombre": "Finca La Herradura",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6828734,
+          20.010966
+        ]
+      },
+      "id": "node/13173637039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637040",
+        "highway": "bus_stop",
+        "nombre": "Las Granjas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4770155,
+          19.9662573
+        ]
+      },
+      "id": "node/13173637040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637041",
+        "highway": "bus_stop",
+        "nombre": "El Jazmin",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4991056,
+          19.9632194
+        ]
+      },
+      "id": "node/13173637041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637042",
+        "highway": "bus_stop",
+        "nombre": "Panteon",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.604611,
+          20.1353658
+        ]
+      },
+      "id": "node/13173637042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637043",
+        "highway": "bus_stop",
+        "nombre": "La Campana",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5476022,
+          19.9530187
+        ]
+      },
+      "id": "node/13173637043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637044",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5258226,
+          19.954623
+        ]
+      },
+      "id": "node/13173637044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637045",
+        "highway": "bus_stop",
+        "nombre": "Saltillito",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6417254,
+          20.0335861
+        ]
+      },
+      "id": "node/13173637045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637046",
+        "highway": "bus_stop",
+        "nombre": "OXXO Manzanas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5533908,
+          19.9479578
+        ]
+      },
+      "id": "node/13173637046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637047",
+        "highway": "bus_stop",
+        "nombre": "Panteon",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5289975,
+          19.9540571
+        ]
+      },
+      "id": "node/13173637047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637048",
+        "highway": "bus_stop",
+        "nombre": "Clinica",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5757842,
+          19.992933
+        ]
+      },
+      "id": "node/13173637048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637049",
+        "highway": "bus_stop",
+        "nombre": "Panaderia",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.567598,
+          19.9729053
+        ]
+      },
+      "id": "node/13173637049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637050",
+        "highway": "bus_stop",
+        "nombre": "Bordo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5635769,
+          19.9780604
+        ]
+      },
+      "id": "node/13173637050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637051",
+        "highway": "bus_stop",
+        "nombre": "Carcamo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5716685,
+          19.9733853
+        ]
+      },
+      "id": "node/13173637051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637052",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6345476,
+          19.9193307
+        ]
+      },
+      "id": "node/13173637052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637053",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.507072,
+          19.9477954
+        ]
+      },
+      "id": "node/13173637053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637054",
+        "highway": "bus_stop",
+        "nombre": "Super Don",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6068236,
+          19.9754652
+        ]
+      },
+      "id": "node/13173637054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637055",
+        "highway": "bus_stop",
+        "nombre": "Escuelas Durazno",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6088462,
+          19.9108345
+        ]
+      },
+      "id": "node/13173637055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637056",
+        "highway": "bus_stop",
+        "nombre": "Iglesia Dexcani Alto",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4938528,
+          19.9348042
+        ]
+      },
+      "id": "node/13173637056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637057",
+        "highway": "bus_stop",
+        "nombre": "Centro San Pablo Huantepec",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4923886,
+          19.9682443
+        ]
+      },
+      "id": "node/13173637057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637058",
+        "highway": "bus_stop",
+        "nombre": "Panteon de Las Huertas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.570357,
+          19.9809875
+        ]
+      },
+      "id": "node/13173637058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637059",
+        "highway": "bus_stop",
+        "nombre": "IMSS",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4899467,
+          19.9478318
+        ]
+      },
+      "id": "node/13173637059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637060",
+        "highway": "bus_stop",
+        "nombre": "Crucero de Aldama",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6638554,
+          19.98938
+        ]
+      },
+      "id": "node/13173637060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637061",
+        "highway": "bus_stop",
+        "nombre": "Primaria San Juan Acazuchitlan",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5979476,
+          20.1456977
+        ]
+      },
+      "id": "node/13173637061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637062",
+        "highway": "bus_stop",
+        "nombre": "Interseccion 2",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6025516,
+          20.139095
+        ]
+      },
+      "id": "node/13173637062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637063",
+        "highway": "bus_stop",
+        "nombre": "Calpulalpan centro",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6333628,
+          20.0572237
+        ]
+      },
+      "id": "node/13173637063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637064",
+        "highway": "bus_stop",
+        "nombre": "Hacienda",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5579198,
+          19.9290358
+        ]
+      },
+      "id": "node/13173637064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637065",
+        "highway": "bus_stop",
+        "nombre": "Herreria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.555869,
+          19.9097591
+        ]
+      },
+      "id": "node/13173637065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637066",
+        "highway": "bus_stop",
+        "nombre": "Entrada Magueycitos",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.604048,
+          19.9136076
+        ]
+      },
+      "id": "node/13173637066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637067",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.632286,
+          19.9001001
+        ]
+      },
+      "id": "node/13173637067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637068",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6411538,
+          19.9910221
+        ]
+      },
+      "id": "node/13173637068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637069",
+        "highway": "bus_stop",
+        "nombre": "Parque Recreativo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5556652,
+          19.9190044
+        ]
+      },
+      "id": "node/13173637069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637070",
+        "highway": "bus_stop",
+        "nombre": "Intersecci",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5715565,
+          20.0013077
+        ]
+      },
+      "id": "node/13173637070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637071",
+        "highway": "bus_stop",
+        "nombre": "Iglesia de Comu",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5875359,
+          20.0125785
+        ]
+      },
+      "id": "node/13173637071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637072",
+        "highway": "bus_stop",
+        "nombre": "Gasolinera",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5975537,
+          19.9173447
+        ]
+      },
+      "id": "node/13173637072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637073",
+        "highway": "bus_stop",
+        "nombre": "Iglesia El Durazno",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6049914,
+          19.9128179
+        ]
+      },
+      "id": "node/13173637073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637074",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6344822,
+          19.9192576
+        ]
+      },
+      "id": "node/13173637074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637075",
+        "highway": "bus_stop",
+        "nombre": "Bella Vista",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6090242,
+          20.1406097
+        ]
+      },
+      "id": "node/13173637075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637076",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6774811,
+          20.0175345
+        ]
+      },
+      "id": "node/13173637076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637077",
+        "highway": "bus_stop",
+        "nombre": "La Cruz",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.560047,
+          19.8921518
+        ]
+      },
+      "id": "node/13173637077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637078",
+        "highway": "bus_stop",
+        "nombre": "Km 102",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.592276,
+          20.0553948
+        ]
+      },
+      "id": "node/13173637078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637079",
+        "highway": "bus_stop",
+        "nombre": "Kinder Pedregal",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4908879,
+          19.9829142
+        ]
+      },
+      "id": "node/13173637079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637080",
+        "highway": "bus_stop",
+        "nombre": "Rancho El Tejocote",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5546208,
+          19.979834
+        ]
+      },
+      "id": "node/13173637080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637081",
+        "highway": "bus_stop",
+        "nombre": "Bajo Puente Xhitey",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5289278,
+          19.978604
+        ]
+      },
+      "id": "node/13173637081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637082",
+        "highway": "bus_stop",
+        "nombre": "Iglesia Tecolapan",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6264386,
+          20.0958233
+        ]
+      },
+      "id": "node/13173637082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637083",
+        "highway": "bus_stop",
+        "nombre": "Gas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5140236,
+          19.9555894
+        ]
+      },
+      "id": "node/13173637083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637084",
+        "highway": "bus_stop",
+        "nombre": "Iglesia Tecolapan",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6263425,
+          20.0958088
+        ]
+      },
+      "id": "node/13173637084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637085",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6077728,
+          19.9767152
+        ]
+      },
+      "id": "node/13173637085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637086",
+        "highway": "bus_stop",
+        "nombre": "Entrada a Llano",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6176903,
+          19.9936299
+        ]
+      },
+      "id": "node/13173637086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637087",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5671471,
+          20.017074
+        ]
+      },
+      "id": "node/13173637087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637088",
+        "highway": "bus_stop",
+        "nombre": "Entrada a",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6001614,
+          19.9862526
+        ]
+      },
+      "id": "node/13173637088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637089",
+        "highway": "bus_stop",
+        "nombre": "Iglesia de Xhimohay",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6316943,
+          19.9225793
+        ]
+      },
+      "id": "node/13173637089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637090",
+        "highway": "bus_stop",
+        "nombre": "La ermita",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5594129,
+          19.9697731
+        ]
+      },
+      "id": "node/13173637090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637091",
+        "highway": "bus_stop",
+        "nombre": "Panteon",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5288396,
+          19.9527696
+        ]
+      },
+      "id": "node/13173637091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637092",
+        "highway": "bus_stop",
+        "nombre": "Iglesia Emiliano Zapata",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5230262,
+          20.1483153
+        ]
+      },
+      "id": "node/13173637092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637093",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6411227,
+          19.9909173
+        ]
+      },
+      "id": "node/13173637093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637094",
+        "highway": "bus_stop",
+        "nombre": "Crucero de Aldama",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6637855,
+          19.9894411
+        ]
+      },
+      "id": "node/13173637094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637095",
+        "highway": "bus_stop",
+        "nombre": "Crucero Huertas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5496,
+          19.97251
+        ]
+      },
+      "id": "node/13173637095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637096",
+        "highway": "bus_stop",
+        "nombre": "Surtijilo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5281609,
+          19.9541872
+        ]
+      },
+      "id": "node/13173637096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637097",
+        "highway": "bus_stop",
+        "nombre": "La Manzanilla",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5179599,
+          19.9493652
+        ]
+      },
+      "id": "node/13173637097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637098",
+        "highway": "bus_stop",
+        "nombre": "El Bordo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5678481,
+          20.0099169
+        ]
+      },
+      "id": "node/13173637098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637099",
+        "highway": "bus_stop",
+        "nombre": "Km 106",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6132704,
+          20.075649
+        ]
+      },
+      "id": "node/13173637099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637100",
+        "highway": "bus_stop",
+        "nombre": "La ermita",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5594957,
+          19.9696754
+        ]
+      },
+      "id": "node/13173637100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637101",
+        "highway": "bus_stop",
+        "nombre": "Las Granjas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4772115,
+          19.9659818
+        ]
+      },
+      "id": "node/13173637101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637102",
+        "highway": "bus_stop",
+        "nombre": "Iglesia de Saltillito",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.655609,
+          20.0445947
+        ]
+      },
+      "id": "node/13173637102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637103",
+        "highway": "bus_stop",
+        "nombre": "Policia Estatal",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5492971,
+          19.9511271
+        ]
+      },
+      "id": "node/13173637103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637104",
+        "highway": "bus_stop",
+        "nombre": "CECyTEM",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6003203,
+          19.9730976
+        ]
+      },
+      "id": "node/13173637104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637105",
+        "highway": "bus_stop",
+        "nombre": "Motel",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4666017,
+          19.9682508
+        ]
+      },
+      "id": "node/13173637105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637106",
+        "highway": "bus_stop",
+        "nombre": "Restaurante El Fenix",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4660032,
+          19.9684951
+        ]
+      },
+      "id": "node/13173637106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637107",
+        "highway": "bus_stop",
+        "nombre": "Saltillito",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.641766,
+          20.0335016
+        ]
+      },
+      "id": "node/13173637107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637108",
+        "highway": "bus_stop",
+        "nombre": "Panaderia",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5465057,
+          19.9691246
+        ]
+      },
+      "id": "node/13173637108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637109",
+        "highway": "bus_stop",
+        "nombre": "Rancho Las Amazonas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6397383,
+          20.0051166
+        ]
+      },
+      "id": "node/13173637109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637110",
+        "highway": "bus_stop",
+        "nombre": "Casa Ejidal",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5967103,
+          20.1469504
+        ]
+      },
+      "id": "node/13173637110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637111",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5461514,
+          20.1232475
+        ]
+      },
+      "id": "node/13173637111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637112",
+        "highway": "bus_stop",
+        "nombre": "TESJI",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5771934,
+          19.9195267
+        ]
+      },
+      "id": "node/13173637112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637113",
+        "highway": "bus_stop",
+        "nombre": "Escuelas Durazno",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6087031,
+          19.910575
+        ]
+      },
+      "id": "node/13173637113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637114",
+        "highway": "bus_stop",
+        "nombre": "Entrada Calderon",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5035864,
+          19.9467128
+        ]
+      },
+      "id": "node/13173637114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637115",
+        "highway": "bus_stop",
+        "nombre": "Piedras Bl",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5540696,
+          19.9544368
+        ]
+      },
+      "id": "node/13173637115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637116",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6224031,
+          20.1143199
+        ]
+      },
+      "id": "node/13173637116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637117",
+        "highway": "bus_stop",
+        "nombre": "Terminal de aut",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5319711,
+          19.9636148
+        ]
+      },
+      "id": "node/13173637117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637118",
+        "highway": "bus_stop",
+        "nombre": "Crucero Chapa",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5817074,
+          19.9266133
+        ]
+      },
+      "id": "node/13173637118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637119",
+        "highway": "bus_stop",
+        "nombre": "Bajo puente",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.548315,
+          19.9590218
+        ]
+      },
+      "id": "node/13173637119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637120",
+        "highway": "bus_stop",
+        "nombre": "IMSS",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6444749,
+          20.1378348
+        ]
+      },
+      "id": "node/13173637120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637121",
+        "highway": "bus_stop",
+        "nombre": "IMSS",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5772618,
+          19.9807928
+        ]
+      },
+      "id": "node/13173637121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637122",
+        "highway": "bus_stop",
+        "nombre": "Banco del Bienestar",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5573682,
+          19.9278324
+        ]
+      },
+      "id": "node/13173637122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637123",
+        "highway": "bus_stop",
+        "nombre": "Km 107",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6273123,
+          20.0840377
+        ]
+      },
+      "id": "node/13173637123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637124",
+        "highway": "bus_stop",
+        "nombre": "La Curva",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5859262,
+          19.9643953
+        ]
+      },
+      "id": "node/13173637124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637125",
+        "highway": "bus_stop",
+        "nombre": "Campo El trujillo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6877333,
+          19.9869944
+        ]
+      },
+      "id": "node/13173637125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637126",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4919595,
+          19.9382288
+        ]
+      },
+      "id": "node/13173637126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637127",
+        "highway": "bus_stop",
+        "nombre": "La Cruz",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4917762,
+          19.9635718
+        ]
+      },
+      "id": "node/13173637127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637128",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.53175,
+          19.9655675
+        ]
+      },
+      "id": "node/13173637128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637129",
+        "highway": "bus_stop",
+        "nombre": "Herreria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5557992,
+          19.9097339
+        ]
+      },
+      "id": "node/13173637129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637130",
+        "highway": "bus_stop",
+        "nombre": "Clinica La Paz",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5544556,
+          19.9711967
+        ]
+      },
+      "id": "node/13173637130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637131",
+        "highway": "bus_stop",
+        "nombre": "OXXO",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6085667,
+          19.9778527
+        ]
+      },
+      "id": "node/13173637131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637132",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5462562,
+          20.1232607
+        ]
+      },
+      "id": "node/13173637132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637133",
+        "highway": "bus_stop",
+        "nombre": "Los limites Ojo de Agua",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4521897,
+          19.970762
+        ]
+      },
+      "id": "node/13173637133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637134",
+        "highway": "bus_stop",
+        "nombre": "Villa del",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6035491,
+          19.9745626
+        ]
+      },
+      "id": "node/13173637134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637135",
+        "highway": "bus_stop",
+        "nombre": "Papeleria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5796819,
+          19.9939492
+        ]
+      },
+      "id": "node/13173637135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637136",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6079004,
+          19.9766115
+        ]
+      },
+      "id": "node/13173637136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637137",
+        "highway": "bus_stop",
+        "nombre": "Iglesia Emiliano Zapata",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5230221,
+          20.1482508
+        ]
+      },
+      "id": "node/13173637137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637138",
+        "highway": "bus_stop",
+        "nombre": "El Xhiti",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5518224,
+          20.1413399
+        ]
+      },
+      "id": "node/13173637138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637139",
+        "highway": "bus_stop",
+        "nombre": "Puente peatonal",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5324617,
+          19.9616225
+        ]
+      },
+      "id": "node/13173637139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637140",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6823959,
+          20.0244612
+        ]
+      },
+      "id": "node/13173637140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637141",
+        "highway": "bus_stop",
+        "nombre": "Telesecundaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4900581,
+          19.9451696
+        ]
+      },
+      "id": "node/13173637141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637142",
+        "highway": "bus_stop",
+        "nombre": "Las Animas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6260455,
+          20.1004819
+        ]
+      },
+      "id": "node/13173637142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637143",
+        "highway": "bus_stop",
+        "nombre": "Canal Constituy",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5396272,
+          19.9530561
+        ]
+      },
+      "id": "node/13173637143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637144",
+        "highway": "bus_stop",
+        "nombre": "Km 107",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6298011,
+          20.0830113
+        ]
+      },
+      "id": "node/13173637144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637145",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5257833,
+          19.9543479
+        ]
+      },
+      "id": "node/13173637145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637146",
+        "highway": "bus_stop",
+        "nombre": "ArciMart",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5233793,
+          19.9533603
+        ]
+      },
+      "id": "node/13173637146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637147",
+        "highway": "bus_stop",
+        "nombre": "El Jazmin",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4983933,
+          19.9637634
+        ]
+      },
+      "id": "node/13173637147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637148",
+        "highway": "bus_stop",
+        "nombre": "Salida Manzanas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5603818,
+          19.9702443
+        ]
+      },
+      "id": "node/13173637148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637149",
+        "highway": "bus_stop",
+        "nombre": "Gasolinera",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5974678,
+          19.9171984
+        ]
+      },
+      "id": "node/13173637149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637150",
+        "highway": "bus_stop",
+        "nombre": "La Curva",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5859029,
+          19.9644905
+        ]
+      },
+      "id": "node/13173637150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637151",
+        "highway": "bus_stop",
+        "nombre": "Piedras Bl",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5540686,
+          19.9543426
+        ]
+      },
+      "id": "node/13173637151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637152",
+        "highway": "bus_stop",
+        "nombre": "Bosque de Canalejas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6197357,
+          19.9989353
+        ]
+      },
+      "id": "node/13173637152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637153",
+        "highway": "bus_stop",
+        "nombre": "Interseccion 2",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6026094,
+          20.1391555
+        ]
+      },
+      "id": "node/13173637153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637154",
+        "highway": "bus_stop",
+        "nombre": "Panteon",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4960163,
+          19.9399386
+        ]
+      },
+      "id": "node/13173637154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637155",
+        "highway": "bus_stop",
+        "nombre": "Iglesia La Merc",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5373071,
+          19.9503437
+        ]
+      },
+      "id": "node/13173637155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637156",
+        "highway": "bus_stop",
+        "nombre": "Iglesia Dexcani Alto",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4939456,
+          19.9347689
+        ]
+      },
+      "id": "node/13173637156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637157",
+        "highway": "bus_stop",
+        "nombre": "Km 107",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6275282,
+          20.0841027
+        ]
+      },
+      "id": "node/13173637157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637158",
+        "highway": "bus_stop",
+        "nombre": "Las Animas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6259436,
+          20.1004294
+        ]
+      },
+      "id": "node/13173637158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637159",
+        "highway": "bus_stop",
+        "nombre": "Arco 57",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5312936,
+          19.971741
+        ]
+      },
+      "id": "node/13173637159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637160",
+        "highway": "bus_stop",
+        "nombre": "Entrada Xhitey Arrayanes",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5249882,
+          19.9850986
+        ]
+      },
+      "id": "node/13173637160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637161",
+        "highway": "bus_stop",
+        "nombre": "Tope",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5480647,
+          19.9651849
+        ]
+      },
+      "id": "node/13173637161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637162",
+        "highway": "bus_stop",
+        "nombre": "Hacia panteon",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5747334,
+          19.9800917
+        ]
+      },
+      "id": "node/13173637162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637163",
+        "highway": "bus_stop",
+        "nombre": "Taller",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.558204,
+          19.979225
+        ]
+      },
+      "id": "node/13173637163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637164",
+        "highway": "bus_stop",
+        "nombre": "Parroquia Huapango",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6849993,
+          19.9760425
+        ]
+      },
+      "id": "node/13173637164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637165",
+        "highway": "bus_stop",
+        "nombre": "Km 109 (Entrada San Martin)",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6464457,
+          20.0809165
+        ]
+      },
+      "id": "node/13173637165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637166",
+        "highway": "bus_stop",
+        "nombre": "Campo de futbol",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6357144,
+          20.0177645
+        ]
+      },
+      "id": "node/13173637166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637167",
+        "highway": "bus_stop",
+        "nombre": "Saltillito",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6416555,
+          20.0334929
+        ]
+      },
+      "id": "node/13173637167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637168",
+        "highway": "bus_stop",
+        "nombre": "Secundaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6632639,
+          20.0250522
+        ]
+      },
+      "id": "node/13173637168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637169",
+        "highway": "bus_stop",
+        "nombre": "Limite Hidalgo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.475165,
+          19.9486425
+        ]
+      },
+      "id": "node/13173637169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637170",
+        "highway": "bus_stop",
+        "nombre": "Km 112",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6877168,
+          20.0921665
+        ]
+      },
+      "id": "node/13173637170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637171",
+        "highway": "bus_stop",
+        "nombre": "Entrada Ojo de Agua",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4640435,
+          19.9694061
+        ]
+      },
+      "id": "node/13173637171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637172",
+        "highway": "bus_stop",
+        "nombre": "OXXO Manzanas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5534345,
+          19.9481558
+        ]
+      },
+      "id": "node/13173637172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637173",
+        "highway": "bus_stop",
+        "nombre": "Mecanico",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.579073,
+          19.9768777
+        ]
+      },
+      "id": "node/13173637173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637174",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5275267,
+          19.9811385
+        ]
+      },
+      "id": "node/13173637174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637175",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5876296,
+          19.9452708
+        ]
+      },
+      "id": "node/13173637175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637176",
+        "highway": "bus_stop",
+        "nombre": "Plaza Central San Juan Acazuchitlan",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5970519,
+          20.148446
+        ]
+      },
+      "id": "node/13173637176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637177",
+        "highway": "bus_stop",
+        "nombre": "Forrajera",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5895804,
+          19.9367457
+        ]
+      },
+      "id": "node/13173637177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637178",
+        "highway": "bus_stop",
+        "nombre": "Crucero Chapa",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5824746,
+          19.9262228
+        ]
+      },
+      "id": "node/13173637178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637179",
+        "highway": "bus_stop",
+        "nombre": "Iglesia de Xhimohay",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6316186,
+          19.9226012
+        ]
+      },
+      "id": "node/13173637179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637180",
+        "highway": "bus_stop",
+        "nombre": "Bosque de Canalejas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.619625,
+          19.998947
+        ]
+      },
+      "id": "node/13173637180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637181",
+        "highway": "bus_stop",
+        "nombre": "Presa",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5858535,
+          19.9967958
+        ]
+      },
+      "id": "node/13173637181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637182",
+        "highway": "bus_stop",
+        "nombre": "Entrada Hu",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5609234,
+          19.9564593
+        ]
+      },
+      "id": "node/13173637182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637183",
+        "highway": "bus_stop",
+        "nombre": "Cancha",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5706992,
+          20.009269
+        ]
+      },
+      "id": "node/13173637183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637184",
+        "highway": "bus_stop",
+        "nombre": "Automotriz",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6162422,
+          19.9900991
+        ]
+      },
+      "id": "node/13173637184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637185",
+        "highway": "bus_stop",
+        "nombre": "Bordo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5635852,
+          19.9779926
+        ]
+      },
+      "id": "node/13173637185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637186",
+        "highway": "bus_stop",
+        "nombre": "Crucero",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5886501,
+          20.0079142
+        ]
+      },
+      "id": "node/13173637186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637187",
+        "highway": "bus_stop",
+        "nombre": "Iglesia de La Huarac",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6790791,
+          19.9612672
+        ]
+      },
+      "id": "node/13173637187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637188",
+        "highway": "bus_stop",
+        "nombre": "Universidad Mexiquense del Bicentenario",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.574324,
+          19.9150173
+        ]
+      },
+      "id": "node/13173637188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637189",
+        "highway": "bus_stop",
+        "nombre": "Casa Ejidal",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5966138,
+          20.1469014
+        ]
+      },
+      "id": "node/13173637189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637190",
+        "highway": "bus_stop",
+        "nombre": "URIS",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5405414,
+          19.9647401
+        ]
+      },
+      "id": "node/13173637190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637191",
+        "highway": "bus_stop",
+        "nombre": "Salida Manzanas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5602701,
+          19.970294
+        ]
+      },
+      "id": "node/13173637191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637192",
+        "highway": "bus_stop",
+        "nombre": "Gasolinera",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.61243,
+          19.983154
+        ]
+      },
+      "id": "node/13173637192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637193",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5556832,
+          19.9722187
+        ]
+      },
+      "id": "node/13173637193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637194",
+        "highway": "bus_stop",
+        "nombre": "Crucero",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5887316,
+          20.0079297
+        ]
+      },
+      "id": "node/13173637194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637195",
+        "highway": "bus_stop",
+        "nombre": "Aurrera",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5325659,
+          19.9586011
+        ]
+      },
+      "id": "node/13173637195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637196",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.588375,
+          19.9429764
+        ]
+      },
+      "id": "node/13173637196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637197",
+        "highway": "bus_stop",
+        "nombre": "OXXO",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6087647,
+          19.9777712
+        ]
+      },
+      "id": "node/13173637197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637198",
+        "highway": "bus_stop",
+        "nombre": "Chevrolet",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5050557,
+          19.9617932
+        ]
+      },
+      "id": "node/13173637198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637199",
+        "highway": "bus_stop",
+        "nombre": "Rancho El Tejocote",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5545832,
+          19.9798832
+        ]
+      },
+      "id": "node/13173637199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637200",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5704158,
+          20.0251682
+        ]
+      },
+      "id": "node/13173637200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637201",
+        "highway": "bus_stop",
+        "nombre": "IMSS",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6682965,
+          19.9917073
+        ]
+      },
+      "id": "node/13173637201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637202",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6373013,
+          19.9055447
+        ]
+      },
+      "id": "node/13173637202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637203",
+        "highway": "bus_stop",
+        "nombre": "Primaria San Juan Acazuchitlan",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5979974,
+          20.1457617
+        ]
+      },
+      "id": "node/13173637203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637204",
+        "highway": "bus_stop",
+        "nombre": "Interseccion El Quinte (hacia San Juan Tuxtepec)",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6238117,
+          19.8936497
+        ]
+      },
+      "id": "node/13173637204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637205",
+        "highway": "bus_stop",
+        "nombre": "Mercado",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5306656,
+          19.9524824
+        ]
+      },
+      "id": "node/13173637205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637206",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.491858,
+          19.9382288
+        ]
+      },
+      "id": "node/13173637206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637207",
+        "highway": "bus_stop",
+        "nombre": "Cbtis",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.560463,
+          19.9428189
+        ]
+      },
+      "id": "node/13173637207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637208",
+        "highway": "bus_stop",
+        "nombre": "Felipe Ang",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5334284,
+          19.9561294
+        ]
+      },
+      "id": "node/13173637208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637209",
+        "highway": "bus_stop",
+        "nombre": "Km 107",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6274649,
+          20.0840066
+        ]
+      },
+      "id": "node/13173637209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637210",
+        "highway": "bus_stop",
+        "nombre": "URIS",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5406214,
+          19.9646643
+        ]
+      },
+      "id": "node/13173637210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637211",
+        "highway": "bus_stop",
+        "nombre": "Tope",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5479397,
+          19.9652
+        ]
+      },
+      "id": "node/13173637211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637212",
+        "highway": "bus_stop",
+        "nombre": "Km 101",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5869476,
+          20.049979
+        ]
+      },
+      "id": "node/13173637212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637213",
+        "highway": "bus_stop",
+        "nombre": "Escuela San Vicente",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6400731,
+          20.0359459
+        ]
+      },
+      "id": "node/13173637213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637214",
+        "highway": "bus_stop",
+        "nombre": "Gasolinera",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6123452,
+          19.9831926
+        ]
+      },
+      "id": "node/13173637214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637215",
+        "highway": "bus_stop",
+        "nombre": "Iglesia San Martin Tuchicuitlapilco",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6455877,
+          20.0935684
+        ]
+      },
+      "id": "node/13173637215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637216",
+        "highway": "bus_stop",
+        "nombre": "Canal",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5559029,
+          19.9545207
+        ]
+      },
+      "id": "node/13173637216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637217",
+        "highway": "bus_stop",
+        "nombre": "Limite Hidalgo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4751581,
+          19.9485934
+        ]
+      },
+      "id": "node/13173637217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637218",
+        "highway": "bus_stop",
+        "nombre": "Papeleria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5797111,
+          19.9940162
+        ]
+      },
+      "id": "node/13173637218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637219",
+        "highway": "bus_stop",
+        "nombre": "Calle Cuauhtemo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5351516,
+          19.9505241
+        ]
+      },
+      "id": "node/13173637219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637220",
+        "highway": "bus_stop",
+        "nombre": "Villa del",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6037179,
+          19.9744345
+        ]
+      },
+      "id": "node/13173637220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637221",
+        "highway": "bus_stop",
+        "nombre": "Autolavado",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5781396,
+          19.9613741
+        ]
+      },
+      "id": "node/13173637221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637222",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.568564,
+          19.9059018
+        ]
+      },
+      "id": "node/13173637222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637223",
+        "highway": "bus_stop",
+        "nombre": "Tienda",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5080358,
+          19.9479952
+        ]
+      },
+      "id": "node/13173637223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637224",
+        "highway": "bus_stop",
+        "nombre": "Secundaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5609375,
+          19.9707317
+        ]
+      },
+      "id": "node/13173637224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637225",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4873287,
+          19.9498528
+        ]
+      },
+      "id": "node/13173637225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637226",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5644125,
+          19.9723316
+        ]
+      },
+      "id": "node/13173637226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637227",
+        "highway": "bus_stop",
+        "nombre": "Puente Pul",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.564956,
+          19.956141
+        ]
+      },
+      "id": "node/13173637227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637228",
+        "highway": "bus_stop",
+        "nombre": "Autolavado",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5781134,
+          19.9614517
+        ]
+      },
+      "id": "node/13173637228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637229",
+        "highway": "bus_stop",
+        "nombre": "Km 105",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6027355,
+          20.0662475
+        ]
+      },
+      "id": "node/13173637229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637230",
+        "highway": "bus_stop",
+        "nombre": "Parada",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5834505,
+          19.9958427
+        ]
+      },
+      "id": "node/13173637230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637231",
+        "highway": "bus_stop",
+        "nombre": "Secundaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6390453,
+          19.9098815
+        ]
+      },
+      "id": "node/13173637231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637232",
+        "highway": "bus_stop",
+        "nombre": "Iglesia de La Huarac",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.679017,
+          19.961207
+        ]
+      },
+      "id": "node/13173637232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637233",
+        "highway": "bus_stop",
+        "nombre": "Auditorio",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4908182,
+          19.9430312
+        ]
+      },
+      "id": "node/13173637233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637234",
+        "highway": "bus_stop",
+        "nombre": "Campo de futbol",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6358426,
+          20.0177092
+        ]
+      },
+      "id": "node/13173637234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637235",
+        "highway": "bus_stop",
+        "nombre": "Secundaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.638955,
+          19.9099077
+        ]
+      },
+      "id": "node/13173637235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637236",
+        "highway": "bus_stop",
+        "nombre": "Kinder Pedregal",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.490969,
+          19.9828884
+        ]
+      },
+      "id": "node/13173637236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637237",
+        "highway": "bus_stop",
+        "nombre": "OXXO",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5326544,
+          19.960168
+        ]
+      },
+      "id": "node/13173637237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637238",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5274219,
+          19.9809649
+        ]
+      },
+      "id": "node/13173637238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637239",
+        "highway": "bus_stop",
+        "nombre": "Retorno",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5619487,
+          19.895003
+        ]
+      },
+      "id": "node/13173637239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637240",
+        "highway": "bus_stop",
+        "nombre": "Intersecci",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5691701,
+          19.9981099
+        ]
+      },
+      "id": "node/13173637240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637241",
+        "highway": "bus_stop",
+        "nombre": "Escuela",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5776676,
+          20.0193567
+        ]
+      },
+      "id": "node/13173637241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637242",
+        "highway": "bus_stop",
+        "nombre": "Iglesia de Xhimohay 2",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6349065,
+          19.9189176
+        ]
+      },
+      "id": "node/13173637242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637243",
+        "highway": "bus_stop",
+        "nombre": "122",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5437028,
+          19.9530558
+        ]
+      },
+      "id": "node/13173637243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637244",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4873656,
+          19.9499233
+        ]
+      },
+      "id": "node/13173637244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637245",
+        "highway": "bus_stop",
+        "nombre": "Interseccion 2",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6223232,
+          20.1141985
+        ]
+      },
+      "id": "node/13173637245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637246",
+        "highway": "bus_stop",
+        "nombre": "Iglesia",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6067761,
+          19.9782906
+        ]
+      },
+      "id": "node/13173637246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637247",
+        "highway": "bus_stop",
+        "nombre": "Universidad Continental",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5190357,
+          19.9549425
+        ]
+      },
+      "id": "node/13173637247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637248",
+        "highway": "bus_stop",
+        "nombre": "UPN",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5909881,
+          19.9212731
+        ]
+      },
+      "id": "node/13173637248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637249",
+        "highway": "bus_stop",
+        "nombre": "Hospital",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5428784,
+          19.9657417
+        ]
+      },
+      "id": "node/13173637249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637250",
+        "highway": "bus_stop",
+        "nombre": "Entrada Xhitey Arrayanes",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5320261,
+          19.9656338
+        ]
+      },
+      "id": "node/13173637250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637251",
+        "highway": "bus_stop",
+        "nombre": "Tienda",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5715169,
+          19.9960931
+        ]
+      },
+      "id": "node/13173637251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637252",
+        "highway": "bus_stop",
+        "nombre": "Primaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5943612,
+          19.9331702
+        ]
+      },
+      "id": "node/13173637252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637253",
+        "highway": "bus_stop",
+        "nombre": "Los limites Ojo de Agua",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4530001,
+          19.9700364
+        ]
+      },
+      "id": "node/13173637253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637254",
+        "highway": "bus_stop",
+        "nombre": "Delegacion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5101297,
+          19.9483187
+        ]
+      },
+      "id": "node/13173637254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637255",
+        "highway": "bus_stop",
+        "nombre": "Calpulalpan centro",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6333036,
+          20.0572689
+        ]
+      },
+      "id": "node/13173637255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637256",
+        "highway": "bus_stop",
+        "nombre": "Los Arcos",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5898366,
+          19.935715
+        ]
+      },
+      "id": "node/13173637256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637257",
+        "highway": "bus_stop",
+        "nombre": "Retorno",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5619192,
+          19.8949663
+        ]
+      },
+      "id": "node/13173637257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637258",
+        "highway": "bus_stop",
+        "nombre": "Iglesia de Saltillito",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6554262,
+          20.0446741
+        ]
+      },
+      "id": "node/13173637258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637259",
+        "highway": "bus_stop",
+        "nombre": "Entrada a Llano",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6176068,
+          19.9936513
+        ]
+      },
+      "id": "node/13173637259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637260",
+        "highway": "bus_stop",
+        "nombre": "Km 105",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6021952,
+          20.0664276
+        ]
+      },
+      "id": "node/13173637260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637261",
+        "highway": "bus_stop",
+        "nombre": "Interseccion El Quinte (hacia San Juan Tuxtepec)",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6236899,
+          19.8934616
+        ]
+      },
+      "id": "node/13173637261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637262",
+        "highway": "bus_stop",
+        "nombre": "122",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5437044,
+          19.9527545
+        ]
+      },
+      "id": "node/13173637262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637263",
+        "highway": "bus_stop",
+        "nombre": "Parque de Danxho",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5600047,
+          19.8868023
+        ]
+      },
+      "id": "node/13173637263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637264",
+        "highway": "bus_stop",
+        "nombre": "Chevrolet",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5048395,
+          19.9615017
+        ]
+      },
+      "id": "node/13173637264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637265",
+        "highway": "bus_stop",
+        "nombre": "Entrada a",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5720214,
+          19.9553655
+        ]
+      },
+      "id": "node/13173637265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637266",
+        "highway": "bus_stop",
+        "nombre": "Hacienda",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.557863,
+          19.9290634
+        ]
+      },
+      "id": "node/13173637266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637267",
+        "highway": "bus_stop",
+        "nombre": "Alameda",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5328797,
+          19.9495119
+        ]
+      },
+      "id": "node/13173637267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637268",
+        "highway": "bus_stop",
+        "nombre": "Delegacion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5101464,
+          19.9482137
+        ]
+      },
+      "id": "node/13173637268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637269",
+        "highway": "bus_stop",
+        "nombre": "Iglesia San Lorenzo Octeyuco",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5931616,
+          19.9310855
+        ]
+      },
+      "id": "node/13173637269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637270",
+        "highway": "bus_stop",
+        "nombre": "Crucero Valle de Oro",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5509449,
+          19.9750301
+        ]
+      },
+      "id": "node/13173637270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637271",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5895978,
+          19.9259611
+        ]
+      },
+      "id": "node/13173637271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637272",
+        "highway": "bus_stop",
+        "nombre": "Gas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.51407,
+          19.9558022
+        ]
+      },
+      "id": "node/13173637272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637273",
+        "highway": "bus_stop",
+        "nombre": "Gas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5481467,
+          19.962178
+        ]
+      },
+      "id": "node/13173637273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637274",
+        "highway": "bus_stop",
+        "nombre": "Modulo",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5970582,
+          19.9717248
+        ]
+      },
+      "id": "node/13173637274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637275",
+        "highway": "bus_stop",
+        "nombre": "Emiliano Zapata",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5290497,
+          19.9557862
+        ]
+      },
+      "id": "node/13173637275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637276",
+        "highway": "bus_stop",
+        "nombre": "Panteon",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5581401,
+          19.9044756
+        ]
+      },
+      "id": "node/13173637276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637277",
+        "highway": "bus_stop",
+        "nombre": "Km 103",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5941424,
+          20.0580769
+        ]
+      },
+      "id": "node/13173637277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637278",
+        "highway": "bus_stop",
+        "nombre": "Secundaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5757766,
+          19.917267
+        ]
+      },
+      "id": "node/13173637278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637279",
+        "highway": "bus_stop",
+        "nombre": "Km 4",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5806561,
+          19.9623092
+        ]
+      },
+      "id": "node/13173637279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637280",
+        "highway": "bus_stop",
+        "nombre": "Entrada a",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6001679,
+          19.9861539
+        ]
+      },
+      "id": "node/13173637280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637281",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6740921,
+          20.0264469
+        ]
+      },
+      "id": "node/13173637281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637282",
+        "highway": "bus_stop",
+        "nombre": "Enfrente Terminal",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5323107,
+          19.9634976
+        ]
+      },
+      "id": "node/13173637282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637283",
+        "highway": "bus_stop",
+        "nombre": "Tierra Roja",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5964819,
+          20.1582699
+        ]
+      },
+      "id": "node/13173637283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637284",
+        "highway": "bus_stop",
+        "nombre": "Arco 57",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5209265,
+          19.9968054
+        ]
+      },
+      "id": "node/13173637284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637285",
+        "highway": "bus_stop",
+        "nombre": "Iglesia",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5574217,
+          19.9704663
+        ]
+      },
+      "id": "node/13173637285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637286",
+        "highway": "bus_stop",
+        "nombre": "Ermita",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6592418,
+          20.0520251
+        ]
+      },
+      "id": "node/13173637286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637287",
+        "highway": "bus_stop",
+        "nombre": "Escuela San Vicente",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6401459,
+          20.0359969
+        ]
+      },
+      "id": "node/13173637287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637288",
+        "highway": "bus_stop",
+        "nombre": "Automotriz",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6163257,
+          19.990072
+        ]
+      },
+      "id": "node/13173637288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637289",
+        "highway": "bus_stop",
+        "nombre": "Secundaria",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5609904,
+          19.9706492
+        ]
+      },
+      "id": "node/13173637289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637290",
+        "highway": "bus_stop",
+        "nombre": "Iglesia Dedeni Dolores",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6456293,
+          20.1092796
+        ]
+      },
+      "id": "node/13173637290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637291",
+        "highway": "bus_stop",
+        "nombre": "Panteon",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.52883,
+          19.95269
+        ]
+      },
+      "id": "node/13173637291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637292",
+        "highway": "bus_stop",
+        "nombre": "Los Pinos",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5772603,
+          19.9593302
+        ]
+      },
+      "id": "node/13173637292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637293",
+        "highway": "bus_stop",
+        "nombre": "Km 106",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6137842,
+          20.0754954
+        ]
+      },
+      "id": "node/13173637293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637294",
+        "highway": "bus_stop",
+        "nombre": "Crucero Huertas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5495619,
+          19.9725798
+        ]
+      },
+      "id": "node/13173637294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637295",
+        "highway": "bus_stop",
+        "nombre": "Parada",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5868163,
+          19.9985039
+        ]
+      },
+      "id": "node/13173637295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637296",
+        "highway": "bus_stop",
+        "nombre": "Bajo puente",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5484319,
+          19.9590189
+        ]
+      },
+      "id": "node/13173637296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637297",
+        "highway": "bus_stop",
+        "nombre": "Entrada Xhitey Arrayanes",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5251618,
+          19.9851969
+        ]
+      },
+      "id": "node/13173637297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637298",
+        "highway": "bus_stop",
+        "nombre": "Panteon",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5580974,
+          19.9044558
+        ]
+      },
+      "id": "node/13173637298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637299",
+        "highway": "bus_stop",
+        "nombre": "Km 103",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5946681,
+          20.0580875
+        ]
+      },
+      "id": "node/13173637299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637300",
+        "highway": "bus_stop",
+        "nombre": "Ermita",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6592716,
+          20.0519457
+        ]
+      },
+      "id": "node/13173637300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637301",
+        "highway": "bus_stop",
+        "nombre": "Interseccion",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5840891,
+          19.9338341
+        ]
+      },
+      "id": "node/13173637301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637302",
+        "highway": "bus_stop",
+        "nombre": "Km 109 (Entrada San Martin)",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6469435,
+          20.0804557
+        ]
+      },
+      "id": "node/13173637302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637303",
+        "highway": "bus_stop",
+        "nombre": "CFE",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5272142,
+          19.9542774
+        ]
+      },
+      "id": "node/13173637303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637304",
+        "highway": "bus_stop",
+        "nombre": "Escuela",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6308754,
+          20.052919
+        ]
+      },
+      "id": "node/13173637304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13173637305",
+        "highway": "bus_stop",
+        "nombre": "Gas",
+        "public_transport": "platform",
+        "source": "Municipalidad de Jilotepec (datos oficiales, 2025-09-26)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5482779,
+          19.9621789
+        ]
+      },
+      "id": "node/13173637305"
+    }
+  ]
+}

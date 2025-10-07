@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:rutometro_app/branding_rutometro.dart';
 import 'package:rutometro_app/custom_async_executor.dart';
+import 'package:rutometro_app/pois/static_layer.dart';
 import 'package:trufi_core/base/blocs/map_configuration/map_configuration_cubit.dart';
 import 'package:trufi_core/base/blocs/providers/city_selection_manager.dart';
 import 'package:trufi_core/base/blocs/theme/theme_cubit.dart';
@@ -38,6 +39,7 @@ void main() async {
           mapConfiguration: MapConfiguration(
             center: CitySelectionManager().currentCity.center,
           ),
+          layersContainer: customLayersRutometro,
           searchAssetPath: "assets/data/search.json",
           photonUrl: "https://rutometro.trufi.dev/photon",
           // mapTileProviders: [
