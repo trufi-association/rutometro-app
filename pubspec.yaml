@@ -67,7 +67,6 @@ flutter:
     - assets/data/POIs/
     - assets/images/splash-screens/
     - assets/images/
-    - assets/splash.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
