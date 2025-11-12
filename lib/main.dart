@@ -63,8 +63,8 @@ void main() async {
               fit: BoxFit.cover,
             );
           },
-          urlFeedback:
-              'https://trufifeedback.z15.web.core.windows.net/route.html',
+          emailFeedback:
+              'feedback@trufi.app',
           emailContact: 'feedback@trufi.app',
           urlShareApp: 'https://www.trufi.app/',
           urlSocialMedia: const UrlSocialMedia(

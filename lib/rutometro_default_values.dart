@@ -108,7 +108,7 @@ abstract class RutometroDefaultValues {
     WidgetBuilder? backgroundImageBuilder,
     AsyncExecutor? asyncExecutor,
     required String urlShareApp,
-    required String urlFeedback,
+    required String emailFeedback,
     required String emailContact,
     UrlSocialMedia? urlSocialMedia,
     ITrufiMapProvider? trufiMapProvider,
@@ -187,7 +187,7 @@ abstract class RutometroDefaultValues {
             },
             FeedbackPage.route: (route) => NoAnimationPage(
                   child: FeedbackPage(
-                    urlFeedback: urlFeedback,
+                    email: emailFeedback,
                     drawerBuilder: generateDrawer(FeedbackPage.route),
                   ),
                 ),
