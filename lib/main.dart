@@ -3,6 +3,7 @@ import 'package:rutometro_app/branding_rutometro.dart';
 import 'package:rutometro_app/custom_async_executor.dart';
 import 'package:rutometro_app/pois/static_layer.dart';
 import 'package:trufi_core/base/blocs/map_configuration/map_configuration_cubit.dart';
+import 'package:trufi_core/base/blocs/map_tile_provider/map_tile_provider.dart';
 import 'package:trufi_core/base/blocs/providers/city_selection_manager.dart';
 import 'package:trufi_core/base/blocs/theme/theme_cubit.dart';
 import 'package:trufi_core/base/utils/certificates_letsencrypt_android.dart';
@@ -42,12 +43,12 @@ void main() async {
           layersContainer: customLayersRutometro,
           searchAssetPath: "assets/data/search.json",
           photonUrl: "https://rutometro.trufi.dev/photon",
-          // mapTileProviders: [
-          //   OSMMapLayer(
-          //     mapTilesUrl:
-          //         "https://rutometro.trufi.dev/static-maps/osm-liberty/{z}/{x}/{y}@2x.jpg",
-          //   )
-          // ],
+          mapTileProviders: [
+            OSMMapLayer(
+              mapTilesUrl:
+                  "https://rutometro.app/static-maps/osm-liberty/{z}/{x}/{y}@2x.jpg",
+            )
+          ],
         ),
       ],
       trufiRouter: TrufiRouter(
