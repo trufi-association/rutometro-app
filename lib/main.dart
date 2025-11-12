@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:rutometro_app/branding_rutometro.dart';
 import 'package:rutometro_app/custom_async_executor.dart';
 import 'package:rutometro_app/pois/static_layer.dart';
+import 'package:rutometro_app/rutometro_default_values.dart';
 import 'package:trufi_core/base/blocs/map_configuration/map_configuration_cubit.dart';
 import 'package:trufi_core/base/blocs/map_tile_provider/map_tile_provider.dart';
 import 'package:trufi_core/base/blocs/providers/city_selection_manager.dart';
@@ -11,7 +12,6 @@ import 'package:trufi_core/base/utils/graphql_client/hive_init.dart';
 import 'package:trufi_core/base/utils/trufi_app_id.dart';
 import 'package:trufi_core/base/widgets/drawer/menu/social_media_item.dart';
 import 'package:trufi_core/base/widgets/screen/lifecycle_reactor_notification.dart';
-import 'package:trufi_core/default_values.dart';
 import 'package:trufi_core/trufi_core.dart';
 import 'package:trufi_core/trufi_router.dart';
 
@@ -24,7 +24,7 @@ void main() async {
   runApp(
     TrufiApp(
       appNameTitle: 'Rutometro',
-      trufiLocalization: DefaultValues.trufiLocalization(
+      trufiLocalization: RutometroDefaultValues.trufiLocalization(
         currentLocale: const Locale("es"),
       ),
       trufiBaseTheme: TrufiBaseTheme(
@@ -34,7 +34,7 @@ void main() async {
         darkTheme: brandingRutometroDark,
       ),
       blocProviders: [
-        ...DefaultValues.blocProviders(
+        ...RutometroDefaultValues.blocProviders(
           otpEndpoint: "https://rutometro.trufi.dev/otp",
           otpGraphqlEndpoint: "https://rutometro.trufi.dev/otp/index/graphql",
           mapConfiguration: MapConfiguration(
@@ -51,8 +51,9 @@ void main() async {
           ],
         ),
       ],
+
       trufiRouter: TrufiRouter(
-        routerDelegate: DefaultValues.routerDelegate(
+        routerDelegate: RutometroDefaultValues.routerDelegate(
           appName: 'Rutometro',
           cityName: 'Michoacán',
           countryName: 'Mexico',
@@ -64,7 +65,7 @@ void main() async {
           },
           urlFeedback:
               'https://trufifeedback.z15.web.core.windows.net/route.html',
-          emailContact: 'leonardo.gutierrez@trufi-association.org',
+          emailContact: 'feedback@trufi.app',
           urlShareApp: 'https://www.trufi.app/',
           urlSocialMedia: const UrlSocialMedia(
             urlFacebook: 'https://www.facebook.com/profile.php?id=61574989715405',
