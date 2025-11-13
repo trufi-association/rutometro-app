@@ -35,14 +35,14 @@ void main() async {
       ),
       blocProviders: [
         ...RutometroDefaultValues.blocProviders(
-          otpEndpoint: "https://rutometro.trufi.dev/otp",
-          otpGraphqlEndpoint: "https://rutometro.trufi.dev/otp/index/graphql",
+          otpEndpoint: "https://rutometro.app/otp",
+          otpGraphqlEndpoint: "https://rutometro.app/otp/index/graphql",
           mapConfiguration: MapConfiguration(
             center: CitySelectionManager().currentCity.center,
           ),
           layersContainer: customLayersRutometro,
           searchAssetPath: "assets/data/search.json",
-          photonUrl: "https://rutometro.trufi.dev/photon",
+          photonUrl: "https://rutometro.app/photon",
           mapTileProviders: [
             OSMMapLayer(
               mapTilesUrl:
@@ -51,7 +51,6 @@ void main() async {
           ],
         ),
       ],
-
       trufiRouter: TrufiRouter(
         routerDelegate: RutometroDefaultValues.routerDelegate(
           appName: 'Rutometro',
@@ -63,21 +62,22 @@ void main() async {
               fit: BoxFit.cover,
             );
           },
-          emailFeedback:
-              'feedback@trufi.app',
+          emailFeedback: 'feedback@trufi.app',
           emailContact: 'feedback@trufi.app',
           urlShareApp: 'https://www.trufi.app/',
           urlSocialMedia: const UrlSocialMedia(
-            urlFacebook: 'https://www.facebook.com/profile.php?id=61574989715405',
-            urlInstagram: 'https://www.instagram.com/mapadata_?igsh=ajFtM2gwdTVhYWc=',
+            urlFacebook:
+                'https://www.facebook.com/profile.php?id=61574989715405',
+            urlInstagram:
+                'https://www.instagram.com/mapadata_?igsh=ajFtM2gwdTVhYWc=',
             urlLinkedin: 'https://www.linkedin.com/company/mapadata/',
           ),
           shareBaseUri: Uri(
             scheme: "https",
-            host: "rutometro.trufi.dev",
+            host: "rutometro.app",
           ),
           lifecycleReactorHandler: LifecycleReactorNotifications(
-            url: 'https://rutometro.trufi.dev/static_files/notification.json',
+            url: 'https://rutometro.app/static_files/notification.json',
           ),
           asyncExecutor: customAsyncExecutor,
         ),

@@ -6,7 +6,7 @@
 	<string>production</string>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
-		<string>applinks:rutometro.trufi.dev</string>
+		<string>applinks:rutometro.app</string>
 	</array>
 </dict>
 </plist>
