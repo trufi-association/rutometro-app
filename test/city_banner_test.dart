@@ -3,7 +3,6 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-// ignore: depend_on_referenced_packages
 import 'package:hive/hive.dart';
 import 'package:rutometro_app/city_banner.dart';
 import 'package:trufi_core/base/blocs/providers/city_selection_manager.dart';
