@@ -21,6 +21,15 @@ void main() {
       }
     });
 
+    test('every CityInstance has a banner of its own', () {
+      expect(
+        cityBannerAssets.keys.toSet(),
+        CityInstance.values.toSet(),
+        reason: 'a city without a banner silently shows the generic photo '
+            '(rutometro#18)',
+      );
+    });
+
     test('a city without a banner falls back to the generic one', () {
       expect(
         cityBannerAssetFor(CityInstance.zamora, banners: const {}),
