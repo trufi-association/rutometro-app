@@ -46,12 +46,20 @@ void main() {
       );
     });
 
-    test('every listed banner ships in assets/images', () {
+    testWidgets('every listed banner is in the asset bundle', (tester) async {
+      final manifest = await tester.runAsync(
+        () => AssetManifest.loadFromAssetBundle(rootBundle),
+      );
+      final assets = manifest!.listAssets();
       for (final asset in [
         defaultCityBannerAsset,
         ...cityBannerAssets.values
       ]) {
-        expect(File(asset).existsSync(), isTrue, reason: '$asset is missing');
+        expect(
+          assets,
+          contains(asset),
+          reason: '$asset is not declared in pubspec.yaml',
+        );
       }
     });
   });
@@ -134,10 +142,13 @@ void main() {
             home: cityBannerImage('assets/images/drawer-bg-missing.jpg'),
           ),
         );
-        // Let the asset lookup really hit the bundle and fail.
-        await Future<void>.delayed(const Duration(milliseconds: 300));
+        // Wait, bounded, for the lookup to really fail in the bundle and
+        // for errorBuilder to put the generic banner in the tree.
+        for (var i = 0; i < 100 && _imageAssets(tester).length < 2; i++) {
+          await Future<void>.delayed(const Duration(milliseconds: 10));
+          await tester.pump();
+        }
       });
-      await tester.pump();
       expect(
         _imageAssets(tester),
         ['assets/images/drawer-bg-missing.jpg', defaultCityBannerAsset],
