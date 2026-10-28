@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:rutometro_app/branding_rutometro.dart';
+import 'package:rutometro_app/city_banner.dart';
 import 'package:rutometro_app/custom_async_executor.dart';
 import 'package:rutometro_app/pois/static_layer.dart';
 import 'package:rutometro_app/rutometro_default_values.dart';
@@ -56,12 +57,7 @@ void main() async {
           appName: 'Rutometro',
           cityName: 'Michoacán',
           countryName: 'Mexico',
-          backgroundImageBuilder: (_) {
-            return Image.asset(
-              'assets/images/drawer-bg.jpg',
-              fit: BoxFit.cover,
-            );
-          },
+          backgroundImageBuilder: buildCityBanner,
           emailFeedback: 'feedback@trufi.app',
           emailContact: 'feedback@trufi.app',
           urlShareApp: 'https://www.trufi.app/',
